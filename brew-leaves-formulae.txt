@@ -29,7 +29,7 @@ kustomize
 libpq
 lua
 minikube
-minio/stable/mc
+minio-mc
 mkcert
 openshift-cli
 pwgen
