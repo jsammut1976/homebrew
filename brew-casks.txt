@@ -1,0 +1,12 @@
+firefox
+google-chrome
+google-drive
+iterm2
+keepassxc
+lens
+microsoft-remote-desktop
+pgadmin4
+postman
+remote-desktop-manager
+visual-studio-code
+wireshark
