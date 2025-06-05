@@ -29,7 +29,6 @@ kustomize
 libpq
 lua
 minikube
-minio-mc
 mkcert
 openshift-cli
 pwgen
@@ -42,7 +41,6 @@ terraform
 tfenv
 tflint
 tree
-vault
 watch
 wget
 yamllint
